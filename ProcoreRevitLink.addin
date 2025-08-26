@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>Procore Revit Link</Name>
+    <Assembly>%AppData%\Autodesk\Revit\Addins\2023\ProcoreRevitLink.dll</Assembly>
+    <AddInId>8A3E8DED-3618-4A1A-A6E3-B81768971D21</AddInId>
+    <FullClassName>ProcoreRevitLink.App</FullClassName>
+    <VendorId>PCOR</VendorId>
+    <VendorDescription>Procore Revit Link Sample</VendorDescription>
+  </AddIn>
+</RevitAddIns>
