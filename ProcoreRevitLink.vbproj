@@ -15,4 +15,8 @@
       <Private>false</Private>
     </Reference>
   </ItemGroup>
+  <Target Name="AfterBuild">
+    <MakeDir Directories="C:\Users\jonathan\AppData\Roaming\Autodesk\Revit\Addins\2023" />
+    <Copy SourceFiles="$(TargetPath)" DestinationFolder="C:\Users\jonathan\AppData\Roaming\Autodesk\Revit\Addins\2023" />
+  </Target>
 </Project>
