@@ -1,0 +1,9 @@
+C:\Users\jonathan\Documents\Projects\Procore-Revit-Link\bin\Debug\net48\ProcoreRevitLink.dll
+C:\Users\jonathan\Documents\Projects\Procore-Revit-Link\bin\Debug\net48\ProcoreRevitLink.pdb
+C:\Users\jonathan\Documents\Projects\Procore-Revit-Link\obj\Debug\net48\ProcoreRevitLink.vbproj.AssemblyReference.cache
+C:\Users\jonathan\Documents\Projects\Procore-Revit-Link\obj\Debug\net48\ProcoreRevitLink.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonathan\Documents\Projects\Procore-Revit-Link\obj\Debug\net48\ProcoreRevitLink.AssemblyInfoInputs.cache
+C:\Users\jonathan\Documents\Projects\Procore-Revit-Link\obj\Debug\net48\ProcoreRevitLink.AssemblyInfo.vb
+C:\Users\jonathan\Documents\Projects\Procore-Revit-Link\obj\Debug\net48\ProcoreRevitLink.vbproj.CoreCompileInputs.cache
+C:\Users\jonathan\Documents\Projects\Procore-Revit-Link\obj\Debug\net48\ProcoreRevitLink.dll
+C:\Users\jonathan\Documents\Projects\Procore-Revit-Link\obj\Debug\net48\ProcoreRevitLink.pdb
